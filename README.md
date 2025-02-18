@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Megh Shah! 👋  
 
-<!--
-**Megh1884/Megh1884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Cybersecurity Enthusiast & Ethical Hacking student**  
+🔍 Passionate about **Cybersecurity and exploring the world of digital security.**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects I'm Working On:
+- 🚗 **Uber Clone** – A mini project for my academic curriculum.  
+- 🥘 **Meal Maestro** – Helps users decide what to cook based on available cuisines.  
+- 🏏 **Hand Cricket Game (Java)** – A fun Java-based hand cricket game with interactive gameplay 
+- 🔍 **Network Packet Analyzer** – Analyzing and monitoring network traffic.  
+
+---
+
+## 📚 Technologies & Skills:
+- **Languages**: Python, JavaScript, C, C++  
+- **Frameworks**: React, TensorFlow  
+- **Databases**: Mongodb, MySQL, Oracle  
+- **Cybersecurity**: Kali Linux, Network Traffic Analysis, Ethical Hacking  
+- **Tools**: Git, VS Code, Docker, Linux  
+
+---
+
+## 🌱 Currently Learning:  
+- Web-based **Password Manager with OTP Authentication**  
+- Graph Data Structures for **Travel Planner App**  
+
+---
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Megh1884&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megh1884&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect:
+📫 **Email**: [meghshah1884@gmail.com]  
+💼 **LinkedIn**: [https://www.linkedin.com/in/meghshah1884/](#)  
+
+---
+
+⚡ **Fun Fact**: I love exploring ethical hacking tools and AI-powered projects in my free time!  
